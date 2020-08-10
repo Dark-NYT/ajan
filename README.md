@@ -35,5 +35,9 @@ Our Future plans about this project
 - Link To PPT of the project : https://teamcovid.netlify.app/covid19-chatbot.pdf/
 - Link To the Youtube Video For Demonstration: http://tr.im/covidchat/
 - Follow Me on Instgagram: https://www.instagram.com/teen_developer/
+- Github Profile: https://github.com/saviomartin
+
+## License
+<a href="https://github.com/saviomartin/Covid-chatbot/blob/master/LICENSE.txt">MIT License</a>
 
 ### Developed By <a href="https://www.instagram.com/teen_developer/">Savio Martin</a>
